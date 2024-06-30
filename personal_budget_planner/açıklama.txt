@@ -1,0 +1,1 @@
+budget main.py dosyasını çalıştırınız.
